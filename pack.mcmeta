@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 99
+    },
+    "description": "1.19 - 1.21.4\n\u00a7f\u00a7lBy \u00a76\u00a7lKingybu"
+  }
+}
